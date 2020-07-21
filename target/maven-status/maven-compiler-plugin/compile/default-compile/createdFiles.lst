@@ -1,0 +1,13 @@
+org/apache/flink/streaming/connectors/rabbitmq/SerializableReturnListener.class
+org/myorg/quickstart/StreamingJob.class
+org/apache/flink/streaming/connectors/rabbitmq/common/RMQConnectionConfig$1.class
+org/apache/flink/streaming/connectors/rabbitmq/RMQSource$RMQCollector.class
+org/apache/flink/streaming/connectors/rabbitmq/RMQSource$1.class
+org/apache/flink/streaming/connectors/rabbitmq/RMQSinkPublishOptions.class
+org/apache/flink/streaming/connectors/rabbitmq/common/RMQConnectionConfig$Builder.class
+org/apache/flink/streaming/connectors/rabbitmq/RMQSource.class
+org/apache/flink/streaming/connectors/rabbitmq/RMQSink.class
+org/apache/flink/streaming/connectors/rabbitmq/Delivery.class
+org/apache/flink/streaming/connectors/rabbitmq/QueueingConsumer.class
+org/apache/flink/streaming/connectors/rabbitmq/Util.class
+org/apache/flink/streaming/connectors/rabbitmq/common/RMQConnectionConfig.class

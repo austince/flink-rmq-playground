@@ -1,0 +1,9 @@
+version: '3'
+services:
+  rabbitmq:
+    build:
+      context: rmq-image
+    ports:
+      - "5672:5672" # MQ Instance
+      - "15672:15672" # Web MGMT UI
+
